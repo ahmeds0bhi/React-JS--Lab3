@@ -9,9 +9,9 @@
     },
     {
       "id": "4",
-      "name": "Coffee",
-      "price": 500,
-      "quantity": 4,
+      "name": "Coffee abu ouf",
+      "price": "5000",
+      "quantity": "40",
       "imgUrl": "https://images.unsplash.com/photo-1444418776041-9c7e33cc5a9c"
     },
     {
@@ -71,60 +71,11 @@
       "imgUrl": "https://images.unsplash.com/photo-1589118949245-7d38baf380d6"
     },
     {
-      "name": "coffee",
-      "price": "1998",
-      "quantity": "1",
-      "imgUrl": "",
-      "id": "13"
-    },
-    {
       "name": "toys",
       "price": "200",
       "quantity": "20",
       "imgUrl": "https://source.unsplash.com/random",
       "id": "14"
-    },
-    {
-      "name": "parpy",
-      "price": "500",
-      "quantity": "7",
-      "imgUrl": "https://source.unsplash.com/random",
-      "id": "15"
-    },
-    {
-      "name": "toys1",
-      "price": "122",
-      "quantity": "5",
-      "imgUrl": "https://source.unsplash.com/random",
-      "id": "16"
-    },
-    {
-      "name": "toys2000",
-      "price": "2000",
-      "quantity": "2",
-      "imgUrl": "https://source.unsplash.com/random",
-      "id": "17"
-    },
-    {
-      "name": "coffee",
-      "price": "100",
-      "quantity": "50",
-      "imgUrl": "https://source.unsplash.com/random",
-      "id": "18"
-    },
-    {
-      "id": "1131",
-      "name": "Apple",
-      "price": "15000",
-      "quantity": "10",
-      "imgUrl": "https://source.unsplash.com/random"
-    },
-    {
-      "id": "1131",
-      "name": "Apple",
-      "price": "15000",
-      "quantity": "10",
-      "imgUrl": "https://source.unsplash.com/random"
     },
     {
       "id": "1131",

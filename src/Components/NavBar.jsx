@@ -40,6 +40,24 @@ const NavBar = () => {
                   Add Product
                 </Link>
               </li>
+              <li class="nav-item">
+                <Link
+                  class="nav-link active text-dark"
+                  aria-current="page"
+                  to="/todos"
+                >
+                  To-DO 1
+                </Link>
+              </li>
+              <li class="nav-item">
+                <Link
+                  class="nav-link active text-dark"
+                  aria-current="page"
+                  to="/todostable"
+                >
+                  To-DO 2
+                </Link>
+              </li>
             </ul>
           </div>
         </div>
